@@ -73,6 +73,7 @@ button {
   border-radius: 0.5rem;
   box-shadow: 2px 4px 18px 0 rgb(0, 0, 0, 0.1);
   margin-block-start: auto;
+  cursor: pointer;
   transition: 200ms ease-in-out;
 }
 
